@@ -1,0 +1,14 @@
+Malik picture: Change to a better one
+we are aweseome section - details AND BETTER WRITEUP on we design, we brand and we print
+TEAM SECTION - BETTER PROFILE ON MALIK AND ANU (IF ABU AND I ALSO) 
+OUR AWESOME SERVICE - BETTER WRITEUP ON WHOLE PAGE
+ALL ALL SOCIAL MEDIA LINKS (INSTA, TELEGRAM AND WHATSAPP KINDE CONFIRMED) (TWITTER, FACEBOOK AND YOUTUBE SHOULD BE THROUGHTLHY CONFIRMED)
+adjust team member pictures as done in portfolio
+the action in form on the last page should be filled with a url where form would be sent to (my mail as demo)
+
+
+About Us Section: We Brand We print and we deisgn not in same code, design looks different
+
+Our contact section: Tel element should be added. i.e Once it is clicked on, it should be directed straight to the call app to make call directly. (Just like Mail-try and see)
+
+HOMEPAGE SCTION: The sentence "We are a creative group who design inflential brands and digital experiences" is gramatically wrong!!! Correct!!
